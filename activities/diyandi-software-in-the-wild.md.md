@@ -19,8 +19,9 @@ As these students are not from Iligan, they might be curious and would want to e
 
 ## 2. Situation or need
 
-**What is this group trying to do during Diyandi?**  
+**What is this group trying to do during Diyandi?**    
 Explore the history of Diyandi and how it relates to the history of the city, and enjoy fiestas and events currently happening
+
 ---
 
 ## 3. Problem or inconvenience
