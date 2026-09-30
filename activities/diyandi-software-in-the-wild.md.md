@@ -87,7 +87,7 @@ You may include **one screenshot** or reference image only if it does not contai
 -->
 
 **External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
+None
 
 ---
 
