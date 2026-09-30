@@ -20,24 +20,24 @@ As these students are not from Iligan, they might be curious and would want to e
 ## 2. Situation or need
 
 **What is this group trying to do during Diyandi?**  
-[Examples: Find events, receive schedule updates, locate a venue, navigate traffic, identify accessible facilities, promote products, coordinate performers, or report an issue.]
-
+Explore the history of Diyandi and how it relates to the history of the city, and enjoy fiestas and events currently happening
 ---
 
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
-[Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]
+Lack of personal connections to locals and lack of knowledge and information about locations where events are held.
 
 ---
 
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-[Describe a mobile application, website, kiosk, dashboard, notification service, digital map, registration system, or another digital tool.]
+A mobile application that shows the hiatory of Diyandi and what it is about
+and where people can see the schedule of events along with locations and a buletin board feature where people can connect and tell others if they want to invite people over for fiesta or if they are looking for a guide.
 
 **How would it help the intended users?**  
-[Explain how the solution responds to the problem you identified.]
+the app would have an about page describing the history of Diyyandi and what it is about to enrich the knowledge and experience of festival goers. It could also have a map of where current events and future events will be held and places of which households are inviting for fiesta.
 
 ---
 
@@ -45,24 +45,26 @@ As these students are not from Iligan, they might be curious and would want to e
 
 Describe **two specific actions** that users could perform using your proposed system.
 
-1. [Write the first user action here.]
-2. [Write the second user action here.]
+1. users can post in the buleting board that their house is open to guests for fiesta and pin a location of their house on the map.
+2. users can open the map to see events happening now and where to anticipate future events to plan where they can go and also see location of homes open for fiesta.
 
 ---
 
 ## 6. Important qualities
+   
+accessible   
+Reliable
 
-Identify **two qualities** that would make your proposed system useful. You may consider whether it should be easy to use, fast, reliable, safe, private, accessible, multilingual, low-data, clear, or available during high demand.
-
-### Quality 1: [Write a quality]
-
-**Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
-
-### Quality 2: [Write a quality]
+### Quality 1: Accessible
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+As the proposed software is a mobile app, anyone with a mobile phone can access it, since it is not a web application or a website, whenever there is no signal as long as the app is installed, anyone can use it.
+
+### Quality 2: Reliable
+
+**Why does this matter to users?**  
+Because the proposed software is a mobile app, having no signal would not affect the application much and information saved such as time and location of future events will not be affected
+
 
 ---
 
@@ -93,7 +95,7 @@ You may include **one screenshot** or reference image only if it does not contai
 
 Select **one** option below and complete the applicable details.
 
-- [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
+- [*] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
 - [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
 
