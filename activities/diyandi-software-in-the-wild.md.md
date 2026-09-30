@@ -2,7 +2,7 @@
 
 > **Name:** Chrysolite M. Catal  
 > **Section:** CS3A  
-> **Date submitted:** [2026-MM-DD]
+> **Date submitted:** [2026-09-30]
 
 ---
 
@@ -99,13 +99,13 @@ Select **one** option below and complete the applicable details.
 - [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
 
   **Purpose of use:**  
-  [Describe specifically how you used the tool. Examples: brainstorming possible user groups; clarifying an idea; checking grammar; generating possible questions to consider.]
+  I Did not use any LLM for this task.
 
   **How I reviewed the output:**  
-  [Explain how you checked, revised, verified, or adapted the AI-generated output.]
+  Did not have any AI-generated output to be checked, revised, verified, or adapted.
 
   **Prompt(s) or summary of interaction:**  
-  [Paste the main prompt(s) used, provide a link to the shared conversation if available, or summarize the interaction clearly enough for the instructor to understand the assistance received.]
+  N/A
 
 > I understand that I remain responsible for the accuracy, originality, and quality of this submission. I confirm that I reviewed and revised any AI-generated content and can explain all ideas submitted under my name.
 
