@@ -69,10 +69,9 @@ Because the proposed software is a mobile app, having no signal would not affect
 ---
 
 ## 7. How to tell whether the solution helped
+The proposed software would have a feedback link where users can rate the software and their satisfaction as well as suggest improvements.   
 
-How could you determine whether your proposed solution actually helped users?
-
-[Examples: Ask users for feedback; observe whether users can complete a task more easily; compare the number of errors or complaints; measure task-completion time; check whether fewer people miss event updates; track whether users can locate venues successfully.]
+surveys would be conducted at certain events to see if attendees are users of the app or not, and the app itself could track whether users can locate venues successfully.
 
 ---
 
